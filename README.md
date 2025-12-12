@@ -7,6 +7,7 @@ All algorithms are analyzed in terms of their time complexity using Big O notati
 | File | Description | Complexity Analysis |
 | --- | --- | --- |
 | sort.h | Header file containing necessary structure definitions and function prototypes (not provided, but assumed for compilation). | N/A |
+| 0-bubble_sort.c | Implementation of Bubble Sort for an array of integers. The array is printed after every swap. | 0-O |
 | 1-insertion_sort_list.c | Implementation of Insertion Sort for a Doubly Linked List, requiring node swaps. | 1-O |
 | 2-selection_sort.c | Implementation of Selection Sort for an array of integers. | 2-O |
 | 3-quick_sort.c | Implementation of Quick Sort (Lomuto partition scheme, last element as pivot). | 3-O |
